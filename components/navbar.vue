@@ -1,20 +1,23 @@
 <template>
     <div>
-      <nav class="bg-gray-800 p-4">
+      <nav class="bg-white-800 p-4">
         <div class="container mx-auto flex justify-between items-center">
-          <a class="text-white text-lg font-semibold" href="#">Logo</a>
+          <a class=" text-lg font-semibold" href="#">Logo</a>
           <ul class="flex space-x-4">
             <li>
-              <a href="#" class="text-gray-300 hover:text-white">Home</a>
+              <a href="#" class=" hover:text-white">Home</a>
             </li>
             <li>
-              <a href="#" class="text-gray-300 hover:text-white">About</a>
+              <a href="#" class=" hover:text-white">About Us</a>
             </li>
             <li>
-              <a href="#" class="text-gray-300 hover:text-white">Services</a>
+              <a href="#" class=" hover:text-white">Goals</a>
             </li>
             <li>
-              <a href="#" class="text-gray-300 hover:text-white">Contact</a>
+              <a href="#" class=" hover:text-white">service</a>
+            </li>
+            <li>
+              <a href="#" class=" hover:text-white">Our Teaam</a>
             </li>
           </ul>
         </div>
