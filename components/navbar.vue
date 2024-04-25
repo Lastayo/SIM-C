@@ -22,10 +22,10 @@
           </ul>
           <ul class="flex space-x-3 font-semibold ">
             <li>
-              <a href="#/" class=" hover:underline focus:underline focus-visible:underline">ID</a>
+              <a href="#/" class=" text-black  hover:border-b hover:border-blue-800  focus:border-b focus:border-blue-800  focus-visible:border-b focus-visible:border-blue-800">ID</a>
             </li>
             <li>
-              <a href="#" class=" hover:underline  focus:underline focus-visible:underline">EN</a>
+              <a href="#" class=" text-black  hover:border-b hover:border-blue-800  focus:border-b focus:border-blue-800  focus-visible:border-b focus-visible:border-blue-800">EN</a>
             </li>
           </ul>
         </div>
