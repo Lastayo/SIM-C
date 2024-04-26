@@ -7,19 +7,19 @@
           <div class="flex space-x-10 ">
             <ul class="flex space-x-10 font-semibold">
               <li>
-                <a href="#" class=" hover:text-white">Home</a>
+                <a href="#" class=" hover:text-blue-600">Home</a>
               </li>
               <li>
-                <a href="#" class="  hover:text-white">About Us</a>
+                <a href="#" class=" hover:text-blue-600">About Us</a>
               </li>
               <li>
-                <a href="#" class="  hover:text-white">Goals</a>
+                <a href="#" class=" hover:text-blue-600">Goals</a>
               </li>
               <li>
-                <a href="#" class="  hover:text-white">Service</a>
+                <a href="#" class=" hover:text-blue-600">Service</a>
               </li>
               <li>
-                <a href="#" class="  hover:text-white">Our Team</a>
+                <a href="#" class=" hover:text-blue-600">Our Team</a>
               </li>
             </ul>
             <ul class="flex space-x-3 font-semibold ">
