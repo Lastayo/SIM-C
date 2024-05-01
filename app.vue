@@ -2,7 +2,7 @@
   <div>
     <Navbar />
     <div class="container mx-auto p-4">
-      <div class="flex gap-24 mt-20">
+      <div class="flex justify-center gap-24 mt-20">
         <div class="my-32">
           <h1 class="text-6xl font-bold mb-4">
             <span style="color: blue">Launch</span>
@@ -25,15 +25,21 @@
       </div>
 
     </div>
+
   </div>
+  <tentang/>
 </template>
 
 <script>
 import Navbar from '@/components/Navbar'
+import Visi from '@/components/visi'
+import tentang from './components/tentang'
 
 export default {
   components: {
-    Navbar
+    Navbar,
+    Visi,
+    tentang
   }
 }
 </script>
