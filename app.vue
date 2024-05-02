@@ -1,13 +1,13 @@
 <template>
   <div>
     <Navbar />
-    <div class="container mx-auto p-4">
+    <div class="container mx-20 p-4">
       <div class="flex justify-center gap-24 mt-20">
         <div class="my-32">
           <h1 class="text-6xl font-bold mb-4">
-            <span style="color: blue">Launch</span>
+            <span style="color: #1C64F2">Launch</span> 
             Your Web <br class="block" />
-            Grow Your <span style="color: blue">Business</span>
+            Grow Your <span style="color: #1C64F2">Business</span>
           </h1>
 
           <p class="font-roboto text-[21px]">"Ready to stand out in the digital world? Get started by creating a <br>
