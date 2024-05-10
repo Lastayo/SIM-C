@@ -1,21 +1,19 @@
 <template>
-  <div>
+  <div class="bg-gray-100 bg-full">
     <Navbar />
-    
-
+    <tentang />
   </div>
-  <tentang />
 </template>
 
 <script>
 import Navbar from '@/components/Navbar'
-import Visi from '@/components/visi'
+import Footer from '@/components/footer'
 import tentang from './components/tentang'
 
 export default {
   components: {
     Navbar,
-    Visi,
+    Footer,
     tentang
   }
 }
