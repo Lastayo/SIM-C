@@ -1,5 +1,5 @@
 <template>
-    <div class="">
+    <div class="pb-32">
         <div class="relative mx-20 p-4">
             <div class="flex justify-center gap-24">
                 <div class="mt-40">
@@ -105,7 +105,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://id.khanacademy.org/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>  
                         </div>
                     </div>
 
@@ -122,7 +124,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://id.duolingo.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>  
                         </div>
                     </div>
 
@@ -138,7 +142,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.quipper.com/id/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a> 
                         </div>
                     </div>
 
@@ -153,7 +159,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://beelinguapp.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a> 
                         </div>
                     </div>
 
@@ -173,7 +181,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.hellotalk.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a> 
                         </div>
                     </div>
 
@@ -190,7 +200,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.lingbe.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a> 
                         </div>
                     </div>
 
@@ -206,7 +218,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.busuu.com/id" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a> 
                         </div>
                     </div>
 
@@ -222,7 +236,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.edx.org/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a> 
                         </div>
                     </div>
 
@@ -250,7 +266,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://photomath.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a> 
                         </div>
                     </div>
 
@@ -267,7 +285,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.mathway.com/Algebra" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -282,7 +302,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.wolframalpha.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -311,7 +333,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.forestapp.cc/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -328,7 +352,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.ruangguru.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -344,7 +370,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.gramedia.com/literasi/tag/edutore/#google_vignette" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -360,7 +388,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.udemy.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -390,7 +420,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://socratic.org/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -406,7 +438,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://quizizz.com/?lng=id" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -421,7 +455,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://quizlet.com/id" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
@@ -437,7 +473,9 @@
                             </p>
                         </div>
                         <div class="flex justify-center pb-8"> <!-- Aligning the button to the center horizontally -->
-                            <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            <a href="https://www.grammarly.com/" target="_blank">
+                                <button class="py-2 px-6 rounded-xl bg-[#01A3EC] text-white">Kunjungi Situs</button>
+                            </a>
                         </div>
                     </div>
 
